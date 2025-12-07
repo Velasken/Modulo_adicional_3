@@ -1,0 +1,15 @@
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\bin\Debug\net9.0\Modulo_adicional_3.exe
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\bin\Debug\net9.0\Modulo_adicional_3.deps.json
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\bin\Debug\net9.0\Modulo_adicional_3.runtimeconfig.json
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\bin\Debug\net9.0\Modulo_adicional_3.dll
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\bin\Debug\net9.0\Modulo_adicional_3.pdb
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\obj\Debug\net9.0\Modulo_adicional_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\obj\Debug\net9.0\Modulo_adicional_3.AssemblyInfoInputs.cache
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\obj\Debug\net9.0\Modulo_adicional_3.AssemblyInfo.cs
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\obj\Debug\net9.0\Modulo_adicional_3.csproj.CoreCompileInputs.cache
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\obj\Debug\net9.0\Modulo_adicional_3.sourcelink.json
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\obj\Debug\net9.0\Modulo_adicional_3.dll
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\obj\Debug\net9.0\refint\Modulo_adicional_3.dll
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\obj\Debug\net9.0\Modulo_adicional_3.pdb
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\obj\Debug\net9.0\Modulo_adicional_3.genruntimeconfig.cache
+C:\Users\svc_admin\OneDrive - UFV\Year2\EDA\Practicas_EDA\Modulo_adicional_3\Modulo_adicional_3\Modulo_adicional_3\obj\Debug\net9.0\ref\Modulo_adicional_3.dll

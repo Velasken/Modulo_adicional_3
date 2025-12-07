@@ -6,20 +6,22 @@ namespace Modulo_adicional
 {
     public class LoadByCSV
     {
+        Stopwatch stopwatch = new Stopwatch();
         public void PerformOperation()
         {
             Console.Write("Enter the file path (File should be in files folder): ");
             string fileName = Console.ReadLine();
-
             string filePath = "../../../" + fileName;
 
             // Search for errors with the path
             try
             {
+                stopwatch.Start();
                 using (StreamReader sr = new StreamReader(filePath))
                 {
                     string line = "";
                     string separator = ";";
+                    List<string[]> obras = new List<string[]>();
 
                     sr.ReadLine(); //Quito la cabecera
 
@@ -42,7 +44,17 @@ namespace Modulo_adicional
                         string Tonalidad = values[3];
                         string Opus = values[4];
                         string Duracion = values[5];
+                        obras.Add(values);
                     }
+                    string[][] arrayObras = obras.ToArray();
+                    Array.Sort(arrayObras, (a, b) => string.Compare(a[1], b[1]));
+
+                    stopwatch.Stop();
+
+                    TimeSpan elapsed = stopwatch.Elapsed;
+                    double microsegundos = (stopwatch.ElapsedTicks * 1_000_000.0) / Stopwatch.Frequency;
+
+                    Console.WriteLine($"Tiempo de ejecución (en microsegundos): {microsegundos}");
                 }
             }
 
