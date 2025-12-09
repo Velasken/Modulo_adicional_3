@@ -10,8 +10,8 @@ namespace Modulo_adicional
         {
             try
             {
-                LoadByCSV loader = new LoadByCSV();
-                loader.PerformOperation();
+                LoadByCSV loader = new LoadByCSV(); // Creamos una nueva instancia de la clase LoadByCSV
+                loader.PerformOperation(); // Ejecutamos la operación de carga del archivo y ordenación
             }
             catch(FormatException)
             {
@@ -19,7 +19,7 @@ namespace Modulo_adicional
             }
             catch(OverflowException)
             {
-                Console.WriteLine("This number is to large");
+                Console.WriteLine("This number is too large");
             }
         }
     }
