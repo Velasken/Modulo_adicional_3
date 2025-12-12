@@ -36,7 +36,6 @@ namespace Modulo_adicional
                         {
                             continue;
                         }
-                        string Obra = values[0];
 
                         if (values[1] == null || values[1] == "")
                         {
