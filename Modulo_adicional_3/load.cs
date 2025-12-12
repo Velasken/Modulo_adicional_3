@@ -56,6 +56,17 @@ namespace Modulo_adicional
                     string[][] arrayObras = obras.ToArray(); // Convertimos la lista en un array para poder ordenarlo
                     Array.Sort(arrayObras, (a, b) => string.Compare(a[1], b[1])); // Ordenamos por el apellido del autor
 
+                    Console.WriteLine("\n--- Obras cargadas y ordenadas por Apellido del Autor ---");
+                    Console.WriteLine("----------------------------------------------------------");
+                    
+                    foreach (string[] obra in arrayObras)
+                    {
+                        // Se asume que los campos están en el orden: Obra[0], Apellido[1], Nombre[2], Tonalidad[3], Opus[4], Duración[5]
+                        string obraStr = $"Obra: {obra[0],-40} | Autor: {obra[1],-15} {obra[2],-10} | Opus: {obra[4],-5} | Duración: {obra[5],-5}";
+                        Console.WriteLine(obraStr);
+                    }
+                    Console.WriteLine("----------------------------------------------------------");
+                    
                     stopwatch.Stop(); // Detenemos el cronómetro
 
                     TimeSpan elapsed = stopwatch.Elapsed; // Calculamos el tiempo transcurrido
